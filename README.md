@@ -1,1 +1,1 @@
-API_URL = https://secrets-api.appbrewery.com;
+API_URL = https://secrets-api.appbrewery.com
